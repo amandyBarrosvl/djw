@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+
+.tabela{
+    background-color: rgb(204, 206, 206);
+    width: 100%;
+}
+
+.pag2{
+    background-color: rgb(200, 129, 228);
+    width: 500px;
+    height: 350px;
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+.pag1{
+    background-color: rgb(200, 129, 228);
+    width: 510px;
+    height: 510px;
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.pag3{
+    background-color: rgb(200, 129, 228);
+    width: 500px;
+    height: 300px;
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.pag4{
+    background-color: rgb(200, 129, 228);
+    width: 100%;
+}
+
+.colorir{
+    background-color: rgb(211, 88, 223);
+}
